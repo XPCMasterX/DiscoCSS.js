@@ -2,8 +2,6 @@
 
 A new way to parse CSS. It parses given css and can apply it.
 
-**Currently not tested yet**
-
 ### Warning: It does not overwrite css, it justs add to it.
 
 ## How to use
@@ -28,7 +26,7 @@ parseCSS(css);
 */
 ```
 
-Using which you can use to apply the css in your way or use the built in function:
+~~Using which you can use to apply the css in your way or use the built in function:~~ _Not Done Yet_
 
 ```javascript
 let css = `
